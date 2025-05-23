@@ -4,7 +4,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, clone the repository from [frontendchallengeserver](https://github.com/mosaic-avantos/frontendchallengeserver)
 run the server below:
 
-npm start
+```npm start
+```
 
 Second, run the development server:
 
