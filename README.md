@@ -20,7 +20,7 @@ pnpm dev
 bun dev
 ```
 
-Based on the information provide in the terminal, Open the local port with your browser to see the result.
+Based on the information provide in the terminal, Open the local port with your browser to see the result. If [http://localhost:3000](http://localhost:3000) is taken, it is likely to use [http://localhost:3001](http://localhost:3001) instead.
 
 ## How to extend with new data Source?
 
