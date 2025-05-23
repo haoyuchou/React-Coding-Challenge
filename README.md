@@ -20,7 +20,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3001](http://localhost:3001) with your browser to see the result.
+Based on the information provide in the terminal, Open the local port with your browser to see the result.
 
 ## How to extend with new data Source?
 
